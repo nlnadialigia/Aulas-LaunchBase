@@ -1,0 +1,49 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://google.com",
+      "name": "Funk",
+      "birth": 279504000000,
+      "gender": "F",
+      "services": "Musculação, Alongamento",
+      "created_at": 1593978806766
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://google.com",
+      "name": "Beliver",
+      "birth": 595123200000,
+      "gender": "F",
+      "services": "Alongamento",
+      "created_at": 1593979038083
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://google.com",
+      "name": "Luiz da Silva",
+      "birth": 400118400000,
+      "gender": "M",
+      "services": "Musculação, Alongamento, Natação",
+      "created_at": 1593979194992
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://google.com",
+      "name": "Funk",
+      "birth": 973036800000,
+      "gender": "F",
+      "services": "Musculação, Alongamento",
+      "created_at": 1595471241942
+    },
+    {
+      "id": 5,
+      "avatar_url": "https://www.google.com",
+      "name": "Jaci Maraes",
+      "birth": 247968000000,
+      "gender": "M",
+      "services": "Alongamento",
+      "created_at": 1595769616907
+    }
+  ]
+}
