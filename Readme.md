@@ -28,7 +28,7 @@ Esse repositório visa documentar os exercícios realizados durante o Bootcamp L
 Esta fase contém 3 módulos:
 </h3>
 
-- [Introdução a programação Web](./Fase-02/01-Iniciando-Javascritp)
+- [Introdução a programação Web](./Fase-02/01-Iniciando-Javascript)
 - [Iniciando o Front-end](./Fase-02/02-Iniciando-Front-end)
 - [Iniciando o Back-end](./Fase-02/03-Iniciando-Back-end)
 
