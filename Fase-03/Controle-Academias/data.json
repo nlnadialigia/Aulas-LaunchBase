@@ -2,7 +2,7 @@
   "instructors": [
     {
       "id": 1,
-      "avatar_url": "https://google.com",
+      "avatar_url": "https://images.unsplash.com/photo-1560233075-4c1e2007908e?ixlib=rb-1.2.1&dpr=1&auto=format&fit=crop&w=525&q=60",
       "name": "Funk",
       "birth": 279504000000,
       "gender": "F",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "avatar_url": "https://google.com",
+      "avatar_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "name": "Beliver",
       "birth": 595123200000,
       "gender": "F",
@@ -19,8 +19,8 @@
       "created_at": 1593979038083
     },
     {
-      "id": "3",
-      "avatar_url": "https://google.com",
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1509631318624-caa76b1d8a97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80",
       "name": "Luiz da Silva Op",
       "birth": 936576000000,
       "gender": "M",
@@ -29,16 +29,7 @@
     },
     {
       "id": 4,
-      "avatar_url": "https://google.com",
-      "name": "Funk",
-      "birth": 973036800000,
-      "gender": "F",
-      "services": "Musculação, Alongamento",
-      "created_at": 1595471241942
-    },
-    {
-      "id": 5,
-      "avatar_url": "https://www.google.com",
+      "avatar_url": "https://images.unsplash.com/photo-1570655652364-2e0a67455ac6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Jaci Maraes",
       "birth": 247968000000,
       "gender": "M",
@@ -46,58 +37,13 @@
       "created_at": 1595769616907
     },
     {
-      "id": 6,
-      "avatar_url": "https://www.google.com.br",
+      "id": 5,
+      "avatar_url": "https://images.unsplash.com/photo-1540324155974-7523202daa3f?ixlib=rb-1.2.1&auto=format&fit=crop&w=658&q=80",
       "name": "Ana Maria",
       "birth": 310694400000,
       "gender": "F",
-      "services": "Alongamento",
+      "services": "Dança",
       "created_at": 1596389674756
-    },
-    {
-      "id": 7,
-      "avatar_url": "https://www.google.com.br",
-      "name": "Paulo André",
-      "birth": 598147200000,
-      "gender": "F",
-      "services": "Musculação",
-      "created_at": 1596390486350
-    },
-    {
-      "id": 8,
-      "avatar_url": "https://www.google.com.br",
-      "name": "Paulo André",
-      "birth": 598147200000,
-      "gender": "F",
-      "services": "Musculação",
-      "created_at": 1596390533507
-    },
-    {
-      "id": 9,
-      "avatar_url": "https://www.google.com.br",
-      "name": "Paulo André",
-      "birth": 598147200000,
-      "gender": "F",
-      "services": "Musculação",
-      "created_at": 1596390608446
-    },
-    {
-      "id": 10,
-      "avatar_url": "https://www.google.com.br",
-      "name": "Artur Ferreira",
-      "birth": 807667200000,
-      "gender": "M",
-      "services": "Jazz",
-      "created_at": 1596391078784
-    },
-    {
-      "id": 11,
-      "avatar_url": "https://google.com",
-      "name": "Beliver",
-      "birth": 247968000000,
-      "gender": "M",
-      "services": "Alongamento",
-      "created_at": 1596391129964
     }
   ]
 }
