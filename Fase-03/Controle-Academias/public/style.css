@@ -180,6 +180,14 @@ input::placeholder{
     font-weight: normal;
 }
 
+select{
+    width: 20%;
+    font-size: 18px;
+    background: #ffffff;
+    outline: var(--rck);
+
+}
+
 button[type="submit"],
 a.button{
     padding: 8px 32px;
@@ -252,7 +260,8 @@ a.button{
     border: 2px solid white;
 }
 
-.table-container tbody tr td a{
+.table-container tbody tr td a,
+.table-container > a{
     background-color: var(--rck);
     padding: 8px 16px;
     text-decoration: none;
@@ -260,6 +269,11 @@ a.button{
     color: white;
     font-size: 12px;
     border-radius: 4px;
+}
+
+.table-container > a{
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .table-container thead tr th:last-child,
