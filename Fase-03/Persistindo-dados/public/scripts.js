@@ -7,5 +7,3 @@ for (item of menuItems){
     }
 }
 
-
-console.log(currentPage);
