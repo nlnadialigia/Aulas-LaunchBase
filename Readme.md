@@ -2,6 +2,16 @@
     <img src="./assets/LaunchBase.png">
 </h1>
 
+<p align="center">
+  <img alt="Made by Nadia Ligia" src="https://img.shields.io/badge/made%20by-Nadia%20Ligia-informational">
+  
+  <a href="license.md">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-informational">
+  </a>
+</p>
+
+---
+
 <h1 align="center">
     AULAS ESTUDADAS
 </h1>
@@ -40,7 +50,7 @@ Esta fase contém 2 módulos:
 </h3>
 
 - [Controle de Academias](./Fase-03/Controle-Academias)
-- Persistindo dados da Aplicação
+- [Persistindo dados da Aplicação](./Fase-03/Persistindo-dados)
 
 ---
 
@@ -66,3 +76,7 @@ Esta fase contém 4 módulos:
 - Funcionalidades Extras para o Launchstore
 - Git & Github
 - Terminal Unix
+
+##  :memo: Licença 
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
