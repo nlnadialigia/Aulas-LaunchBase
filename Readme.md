@@ -38,9 +38,9 @@ Esse repositório visa documentar os exercícios realizados durante o Bootcamp L
 Esta fase contém 3 módulos:
 </h3>
 
-- [Introdução a programação Web](./Fase-02/01-Iniciando-Javascript)
-- [Iniciando o Front-end](./Fase-02/02-Iniciando-Front-end)
-- [Iniciando o Back-end](./Fase-02/03-Iniciando-Back-end)
+- [Introdução a programação Web](./Fase-02/01-iniciando-javascript)
+- Iniciando o Front-end
+- Iniciando o Back-end
 
 ---
 
@@ -49,8 +49,8 @@ Esta fase contém 3 módulos:
 Esta fase contém 2 módulos:
 </h3>
 
-- [Controle de Academias](./Fase-03/Controle-Academias)
-- [Persistindo dados da Aplicação](./Fase-03/Persistindo-dados)
+- Controle de Academias
+- Persistindo dados da Aplicação
 
 ---
 
